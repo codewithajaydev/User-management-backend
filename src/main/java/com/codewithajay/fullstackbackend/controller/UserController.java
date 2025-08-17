@@ -12,10 +12,8 @@ import java.util.List;
 
 @RestController
 @CrossOrigin(origins = "*")
-<<<<<<< HEAD
-=======
 
->>>>>>> 43d5dec (commit)
+
 public class UserController {
     @Autowired
     private UserRepository userRepository;
